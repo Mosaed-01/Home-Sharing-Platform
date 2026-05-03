@@ -32,12 +32,3 @@ This project currently includes database development artifacts and documentation
 3. Load sample data with `Data_Inserted.sql`.
 4. Review triggers, views, and stored procedures for business logic.
 
-## GitHub Upload
-
-This repository was initialized locally. To push it to GitHub, configure a remote repository and run:
-
-```bash
-git remote add origin <your-github-repo-url>
-git branch -M main
-git push -u origin main
-```
