@@ -1,6 +1,6 @@
 # Home Sharing Platform
 
-This repository contains the assets for a Home Sharing Platform project.
+A SQL-driven home sharing platform repository containing database schema, sample data, stored procedures, triggers, views, and project documentation.
 
 ## Project Structure
 
